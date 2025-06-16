@@ -1,4 +1,12 @@
-<h2 align="center">✨ Hola, soy Kevin | Full Stack Developer ✨</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K-Lara-V/K-Lara-V/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K-Lara-V/K-Lara-V/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/K-Lara-V/K-Lara-V/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h1 align="center">✨ Hola, soy Kevin | Full Stack Developer ✨</h1>
 
 ###
 
@@ -7,7 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://open.spotify.com/intl-es/track/503OTo2dSqe7qk76rgsbep?si=ab8155054faa4c38?theme=dark" alt="Widget with the current Spotify song"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Lara-V&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=K-Lara-V&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=1" height="50" alt="streak graph"  />
 </div>
 
 ###
@@ -68,6 +77,30 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">k_lara_v || www.linkedin.com/in/kevin-alexander-lara-valverde-2460bb364 || k.alexander.lara@gmail.com</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=K-Lara-V&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/K-Lara-V/K-Lara-V/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=K-Lara-V&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Lara-V&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
