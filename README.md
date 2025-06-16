@@ -1,4 +1,14 @@
-<h4 align="center">✨ Hola, soy Kevin | Full Stack Developer ✨<br>👨‍🎓 Soy estudiante de último año de la carrera de Informática Empresarial en la Universidad de Costa Rica (UCR) – Recinto de Guápiles.<br>💡 Me encanta programar, colaborar en equipos y gestionar proyectos que mejoran procesos reales.<br>🧩 Busco oportunidades laborales en desarrollo web, QA o gestión de proyectos de TI.</h4>
+<h2 align="center">✨ Hola, soy Kevin | Full Stack Developer ✨</h2>
+
+###
+
+<p align="left">👨‍🎓 Soy estudiante de último año de la carrera de Informática Empresarial en la Universidad de Costa Rica (UCR) – Recinto de Guápiles.<br>💡 Me encanta programar, colaborar en equipos y gestionar proyectos que mejoran procesos reales.<br>🧩 Busco oportunidades laborales en desarrollo web, QA o gestión de proyectos de TI.</p>
+
+###
+
+<div align="center">
+  <img src="https://open.spotify.com/intl-es/track/503OTo2dSqe7qk76rgsbep?si=ab8155054faa4c38?theme=dark" alt="Widget with the current Spotify song"  />
+</div>
 
 ###
 
@@ -58,10 +68,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="left">k_lara_v || www.linkedin.com/in/kevin-alexander-lara-valverde-2460bb364 || k.alexander.lara@gmail.com</p>
 
 ###
