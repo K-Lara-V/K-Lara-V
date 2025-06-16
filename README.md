@@ -17,8 +17,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-Lara-V&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=true" height="175" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=K-Lara-V&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=K-Lara-V&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=K-Lara-V&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
